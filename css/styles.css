@@ -1,6 +1,6 @@
 body {
   /*text-align: center;*/
-  background-color: #36b55c;
+  background-color: #064D7B;
   color: white;
   font-family: 'Playfair Display', serif;
 }
@@ -67,7 +67,7 @@ body {
   border-radius: 4px;
   border: 2px solid #fff;
   color: #fff;
-  background-color: #36b55c;
+  background-color: #064D7B;
   padding: 15px 0;
   transition: .5s ;
 }
@@ -89,3 +89,6 @@ body {
     font-size: 1rem;
   }
 }
+
+
+
