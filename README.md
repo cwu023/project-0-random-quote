@@ -1,6 +1,13 @@
-# project 1 random quote
+# TechDegree Front-End project 0 random quote
 
+For this proejct I made a site that will generate a random quote each time the button is clicked.
 
-My 1st Techdegree project:
+Technologies used:
 
-This site will generate a random quote each time the button is clicked.
+HTML5
+
+CSS3
+
+Javascript 
+
+Live Demo: https://cwu023.github.io/project-0-random-quote/
